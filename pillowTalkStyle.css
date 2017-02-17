@@ -3,6 +3,38 @@ body{
   font-family: 'Open Sans', sans-serif;
   color: black;
 }
+.logo{
+  font-size: 24px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.btn-info:active {
+  color: black;
+  background-color: white;
+}
+.btn-info:focus {
+  color: black;
+  background-color: white;
+}
+.dateButtons {
+  float: left;
+  margin-left: 5px;
+}
+.graphButtons{
+  position: relative;
+  top: 40px;
+}
+.qualityButtons {
+  float: right;
+  margin-right: 5px;
+}
+.on {
+  color: black;
+  background-color: white;
+}
+.off {
+
+}
 .navbar-default{
   background-color: rgba(93, 251, 224, 0.33);
   border-color: rgba(50, 50, 50, 0.21);
